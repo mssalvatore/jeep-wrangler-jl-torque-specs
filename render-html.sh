@@ -11,4 +11,3 @@ pandoc \
 	torque-specs.md >artifacts/torque-specs.html
 
 cp style.css artifacts/
-#--metadata title="Jeep Wrangler JL Torque Specs" \

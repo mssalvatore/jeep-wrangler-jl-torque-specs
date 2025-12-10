@@ -30,8 +30,11 @@ either of the previously mentioned links, or by viewing the
 You can download a PDF of the torque specs from this repository's
 [releases](https://github.com/mssalvatore/jeep-wrangler-jl-torque-specs/releases/latest).
 
-Run the [render-html.sh](./render-html.sh) script to generate an HTML file at
-`./artifacts/torque-specs.html`. Point your browser at this file and use your
-browser's "print-to-pdf" feature to render the HTML as a PDF.
+## Build instructions
+
+To build/render the PDF, run the [render-html.sh](./render-html.sh) script to
+generate an HTML file at `./artifacts/torque-specs.html`. Point your browser at
+this file and use your browser's "print-to-pdf" feature to render the HTML as a
+PDF.
 
 

@@ -27,7 +27,8 @@ If you do not wish to print the data, it can be viewed in your browser at
 either of the previously mentioned links, or by viewing the
 [torque-specs.md](./torque-specs.md) file in this repository.
 
-## Printing instructions
+You can download a PDF of the torque specs from this repository's
+[releases](https://github.com/mssalvatore/jeep-wrangler-jl-torque-specs/releases/latest).
 
 Run the [render-html.sh](./render-html.sh) script to generate an HTML file at
 `./artifacts/torque-specs.html`. Point your browser at this file and use your
